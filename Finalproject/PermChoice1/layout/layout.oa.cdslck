@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      henrydac
+HostName                       juggernaut.eng.buffalo.edu
+ProcessIdentifier              4266
+ProcessCreationTime_UTC        1573511241
+ProcessCreationTime_Readable   Mon Nov 11 17:27:21 2019 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /eng/home/henrydac/Desktop/FinalProject/PermChoice1/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Nov 11 18:46:20 2019 EST
